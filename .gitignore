@@ -1,0 +1,46 @@
+# Data Analyst Journey — Git Ignore Policy
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Microsoft Excel & Office Temporary Lock Files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+~$*.docx
+~$*.pptx
+
+# Power BI Temporary & Backup Files
+*.tmp
+*.bak
+*.AutoSave.pbix
+
+# Python & Jupyter Notebook Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Credentials & Environment Variables
+.env
+*.pem
+*.key
+credentials.json
