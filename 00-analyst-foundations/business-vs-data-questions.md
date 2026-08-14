@@ -11,12 +11,16 @@ Data systems store **raw transactions, events, timestamps, and relational record
 
 An elite analyst acts as a bi-directional translator.
 
+> **Key Distinction:** A business question is vague and action-oriented. A data question is specific, measurable, and something you can actually query and answer.
+
 ---
 
 ## 🔄 Translation Matrix & Examples
 
 | Vague Business Question | Stakeholder Intent | Quantitative Data Questions | Required Data & Tables |
 | :--- | :--- | :--- | :--- |
+| *"Why are customers leaving our app?"* | Isolate churn drivers & fix drop-off points | **What is the 30-day user retention rate broken down by onboarding channel and drop-off stage?** | `user_sessions`, `onboarding_events`, `user_churn` |
+| *"How can we increase sales?"* | Optimize pricing, product mix, or marketing ROI | **Which product category has the highest average order value (AOV) to customer acquisition cost (CAC) ratio?** | `orders`, `order_items`, `marketing_spend`, `products` |
 | *"Why are sales dropping?"* | Need to stop revenue loss and find fix | 1. Is revenue drop driven by lower order volume or lower Average Order Value (AOV)?<br>2. Are new or returning customer cohorts dropping?<br>3. Which product category or region accounts for the variance? | `orders`, `order_items`, `customers`, `products` |
 | *"Is our marketing campaign working?"* | Decide whether to reallocate ad budget | 1. What is the Customer Acquisition Cost (CAC) by channel?<br>2. What is the 30-day and 90-day LTV for users acquired via Campaign X vs Control?<br>3. What is the return on ad spend (ROAS)? | `marketing_spend`, `user_signups`, `user_orders` |
 | *"Are users liking our new app feature?"* | Decide whether to keep, iterate, or remove feature | 1. What is the feature adoption rate among active users?<br>2. Does feature usage correlate with 30-day user retention?<br>3. What is the task completion rate and drop-off in feature funnel? | `app_events`, `user_sessions`, `user_retention` |

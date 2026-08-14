@@ -26,6 +26,7 @@
 ### Year 1 Log
 
 ```text
+[2026-08-14] | Module: 00-analyst-foundations | Milestone: Day 1 - Defined Analyst Role, 6-Step Workflow, Question Translation & Verified Setup
 [YYYY-MM-DD] | Module: 00-analyst-foundations | Milestone: Defined analytical problem framing framework
 [YYYY-MM-DD] | Module: 03-sql                 | Milestone: Built window function cohort analysis queries
 [YYYY-MM-DD] | Module: 20-analytical-patterns | Milestone: Wrote Revenue & Churn Analysis Playbooks
