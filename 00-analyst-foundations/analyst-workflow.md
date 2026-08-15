@@ -95,4 +95,4 @@ order_id, order_date,   customer_id, region,  discount_pct, revenue
   5. What happens if we do nothing?
 
 ### Stage 7: Action & Tracking
-* Present actionable recommendations with trade-offs. Track business outcomes post-implementation.
+* Present actionable recommendations with trade-offs. Track business outcomes post-implementation. 
