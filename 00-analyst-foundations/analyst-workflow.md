@@ -1,4 +1,4 @@
-# The Professional Data Analyst Workflow
+# The Professional Data Analyst Workflow 
 
 > **The end-to-end operational framework for conducting rigorous, repeatable, high-impact business analysis.**
 
