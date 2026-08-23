@@ -1,8 +1,8 @@
 # 🐍 04. Analytical Python Scripting
 
 > **Writing clean, reproducible analytical scripts to automate data tasks and process files.**
-
----
+ 
+--- 
 
 ## 📌 Core Competencies
 - **Scripting Basics**: Data structures, list comprehensions, functions, modular code.
