@@ -61,7 +61,7 @@ order_id, order_date,   customer_id, region,  discount_pct, revenue
 4. DATA EXTRACTION & MANIPULATION (SQL / Pandas / Excel)
         ↓
 5. RIGOROUS ANALYSIS (EDA, Cohort, Funnel, Stats)
-        ↓
+        ↓   
 6. INSIGHT SYNTHESIS & STORYTELLING
         ↓
 7. RECOMMENDATION & STAKEHOLDER DECISION
