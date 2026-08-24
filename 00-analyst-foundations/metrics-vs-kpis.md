@@ -4,7 +4,7 @@
 
 ---
 
-## 📊 The Metric Spectrum
+## 📊 The Metric Spectrum 
 
 ```text
 RAW DATA POINTS  ──►  METRICS  ──►  KEY PERFORMANCE INDICATORS (KPIs)  ──►  NORTH STAR METRIC
