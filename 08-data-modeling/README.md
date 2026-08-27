@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Core Concepts
+## 📌 Core Concepts 
 - **Table Grain**: What does one row represent?
 - **Star Schema Architecture**: Central Fact Tables surrounded by Dimension Tables.
 - **Fact Tables**: Transactional, Periodic Snapshot, Accumulating Snapshot.
