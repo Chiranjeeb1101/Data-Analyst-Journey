@@ -2,7 +2,7 @@
 
 > **A comprehensive library of real-world business problems, analytical sub-questions, and domain KPIs across key industry sectors.**
 
----
+--- 
 
 ## 🛒 1. E-Commerce Domain
 
