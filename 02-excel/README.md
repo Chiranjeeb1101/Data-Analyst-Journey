@@ -2,7 +2,7 @@
 
 > **Treating Excel as a serious professional analytical engine for modeling and scenario analysis.**
 
----  
+---   
 
 ## 📌 Module Focus & Skills
 - **Formula Mastery**: XLOOKUP, INDEX/MATCH, SUMIFS, COUNTIFS, IFS, dynamic arrays (FILTER, UNIQUE, SORT).
