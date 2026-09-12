@@ -2,7 +2,7 @@
 
 > **Understanding how companies make money, manage cost structures, and optimize business functions.**
 
----   
+---    
 
 ## 📌 Module Overview
 Analytical capability without commercial understanding leads to irrelevance. This module covers business models, revenue drivers, cost structures, and unit economics across key industry sectors.
