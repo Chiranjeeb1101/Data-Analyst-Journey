@@ -2,7 +2,7 @@
 
 > **Developing analytical thinking, problem framing, and business inquiry before tool dependency.**
 
----
+--- 
 
 ## 📌 Module Overview
 This module establishes the foundational mindset required to operate as an elite Data Analyst. Before writing a single line of SQL or code, an analyst must understand business contexts, translate vague requests into quantitative questions, and enforce table grain boundaries.
