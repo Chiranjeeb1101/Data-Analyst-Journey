@@ -2,7 +2,7 @@
 
 > **Statistical rigor for business decision-making — probability, hypothesis testing, and regression.**
 
----
+--- 
 
 ## 📌 Core Concepts
 - **Descriptive Statistics**: Mean, Median, Mode, Variance, Standard Deviation, Percentiles.
